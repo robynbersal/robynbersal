@@ -8,8 +8,6 @@
 
 Building modern websites and web applications.
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
@@ -20,7 +18,7 @@ Building modern websites and web applications.
 <tr>
 <td width="35%">
 
-<img src="https://via.placeholder.com/400x400.png?text=YOUR+IMAGE+HERE" width="100%">
+<img src="images/chrollo.jpg" width="100%">
 
 </td>
 
@@ -78,7 +76,7 @@ Inventory Management System with Barcode Support
 - Sales Monitoring
 - Reporting System
 
-<img src="https://via.placeholder.com/600x300.png?text=BeyondTrack+Screenshot" width="100%">
+<img src="images/chrollo.jpg" width="100%">
 
 </td>
 
@@ -96,7 +94,7 @@ Modern responsive website concept for cafes and restaurants.
 - Location Integration
 - Modern UI/UX
 
-<img src="https://via.placeholder.com/600x300.png?text=Cafe+Website+Screenshot" width="100%">
+<img src="images/chrollo.jpg" width="100%">
 
 </td>
 </tr>
@@ -104,13 +102,7 @@ Modern responsive website concept for cafes and restaurants.
 
 ---
 
-# 💼 Portfolio Project
 
-<div align="center">
-
-<img src="https://via.placeholder.com/1000x500.png?text=Portfolio+Website+Preview" width="100%">
-
-</div>
 
 ### Features
 
@@ -129,16 +121,6 @@ Modern responsive website concept for cafes and restaurants.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" />
 
 </div>
 
