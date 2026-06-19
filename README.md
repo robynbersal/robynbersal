@@ -166,8 +166,8 @@ Custom websites built using Laravel.
 ---
 
 <div align="center">
-
-> "Code is never finished. It only becomes slightly less broken over time."
+ 
+> "Job's finished? I dont think so."
 
 ⭐ Thanks for visiting my profile!
 
