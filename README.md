@@ -1,18 +1,30 @@
-# Hi, I'm Robyn 👋
+# Hi, I'm Robyn 
 
-🎓 BS Computer Science Student at STI College Cubao
-🌱 Currently building web applications 
+### BS Computer Science Student
 
-## Tech Stack
+🎓 Studying at STI College Cubao
 
-- Laravel
-- PHP
-- MySQL
-- JavaScript
-- HTML/CSS
-- Bootstrap
-- Git/GitHub
+💻 Building modern web applications 
 
-## Contact
+🚀 Currently working with Laravel, PHP, MySQL, JavaScript, HTML, and CSS
 
-📧 kyrie2ut@gmail.com
+---
+
+## 🛠 Tech Stack
+
+| Backend | Frontend | Database | Tools |
+|----------|----------|----------|----------|
+| Laravel | HTML5 | MySQL | Git |
+| PHP | CSS3 | MariaDB | GitHub |
+| JavaScript | Bootstrap | SQL | VS Code |
+
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 📫 Contact
+
+Email: kyrie2ut@gmail.com
