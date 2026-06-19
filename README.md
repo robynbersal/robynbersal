@@ -102,8 +102,6 @@ Modern responsive website concept for cafes and restaurants.
 
 ---
 
-
-
 ### Features
 
 - Modern Design
@@ -118,19 +116,13 @@ Modern responsive website concept for cafes and restaurants.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robynbersal&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robynbersal&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
-
-# 🎯 Services
-
-<table>
-<tr>
-<td>
 
 ### 🌐 Website Development
 
@@ -139,32 +131,6 @@ Custom websites built using Laravel.
 </td>
 
 <td>
-
-### 🎨 Website Redesign
-
-Modern redesigns for outdated websites.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📱 Mobile Optimization
-
-Responsive websites for all devices.
-
-</td>
-
-<td>
-
-### 🔧 Maintenance
-
-Website updates and support.
-
-</td>
-</tr>
-</table>
 
 ---
 
