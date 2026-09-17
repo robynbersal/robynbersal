@@ -14,13 +14,8 @@ Building modern websites and web applications.
 
 # 👨‍💻 About Me
 
-<table>
+
 <tr>
-<td width="35%">
-
-<img src="images/chrollo.jpg" width="100%">
-
-</td>
 
 <td>
 
