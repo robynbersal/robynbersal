@@ -76,7 +76,7 @@ Inventory Management System with Barcode Support
 - Sales Monitoring
 - Reporting System
 
-<img src="images/chrollo.jpg" width="100%">
+<img src="images/beyondtrack.png" width="100%">
 
 </td>
 
@@ -94,7 +94,7 @@ Modern responsive website concept for cafes and restaurants.
 - Location Integration
 - Modern UI/UX
 
-<img src="images/chrollo.jpg" width="100%">
+<img src="images/kizuna.png" width="100%">
 
 </td>
 </tr>
