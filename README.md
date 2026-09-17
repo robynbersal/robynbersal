@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/chrollo.jpg" width="100%">
+<img src="images/mom.jpg" width="100%">
 
 # ☕ Robyn John
 
