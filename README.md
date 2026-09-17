@@ -4,7 +4,7 @@
 
 # ☕ Robyn John
 
-### Laravel Web Developer • BS Computer Science Student
+### BS Computer Science Student
 
 Building modern websites and web applications.
 
