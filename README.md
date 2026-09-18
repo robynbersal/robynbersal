@@ -24,9 +24,9 @@ I specialize in building modern web applications using Laravel and helping busin
 
 ### Currently Focused On
 
-☕ Cafe Websites   •   🌐 Business Websites   •   📦 Inventory Systems
+☕ Cafe Websites   •   🌐 Business Websites   •   📦 Inventory Systems
 
-🚀 Laravel Development   •   📚 Continuous Learning
+🚀 Laravel Development   •   📚 Continuous Learning
 
 </div>
 
@@ -36,7 +36,7 @@ I specialize in building modern web applications using Laravel and helping busin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,bootstrap,git,github,vscode,python,flask,java,kotlin,androidstudio,sqlite,figma&perline=9" />
 
 </div>
 
@@ -80,6 +80,49 @@ Modern responsive website concept for cafes and restaurants.
 * Modern UI/UX
 
 <img src="images/kizuna.png" width="100%">
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 Kumpulan
+
+Filipino Entity Catalog: an Android app for exploring mythological beings, gods, and heroes from Philippine folklore, with offline access.
+
+### Features
+
+* Offline Browsing via SQLite Cache
+* Search & Filter by Name, Region, and Tags
+* Bookmark / Save Favorite Entities
+* Multiple-Choice Quizzes (Easy, Medium, Hard)
+* User Accounts with Profile & Badge Mastery
+
+**Built with:** Java / Kotlin • XML • SQLite • Android Studio • Figma
+
+<img src="images/kumpulan.png" width="100%">
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI-Powered Personal To-Do Assistant
+
+A smart assistant that understands natural language commands and automatically manages tasks, reminders, and schedules.
+
+### Features
+
+* Natural Language Scheduling
+* Google Calendar Integration
+* Date & Time Interpretation
+* Intent Detection (Schedule, Update, Delete, Reminder, Chitchat)
+* Simple Web Chat Interface
+
+**Built with:** Python • Flask • scikit-learn • GPT-4o-mini • Google Calendar API
+
+<img src="images/todo-assistant.png" width="100%">
 
 </td>
 
