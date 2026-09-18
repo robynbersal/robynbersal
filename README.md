@@ -2,7 +2,7 @@
 
 <img src="images/mom.jpg" width="75%">
 
-# ☕ Robyn John
+# Robyn
 
 ### BS Computer Science Student
 
@@ -12,11 +12,11 @@ Building modern websites and web applications.
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 <div align="center">
 
-### Hey there! 👋
+### Hey there!
 
 I'm **Robyn John**, a BS Computer Science student from **STI College Cubao**.
 
@@ -24,15 +24,15 @@ I specialize in building modern web applications using Laravel and helping busin
 
 ### Currently Focused On
 
-☕ Cafe Websites   •   🌐 Business Websites   •   📦 Inventory Systems
+Cafe Websites   •   Business Websites   •   Inventory Systems
 
-🚀 Laravel Development   •   📚 Continuous Learning
+Laravel Development   •   Continuous Learning
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -42,14 +42,14 @@ I specialize in building modern web applications using Laravel and helping busin
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 📦 BeyondTrack
+## BeyondTrack
 
 Inventory Management System with Barcode Support.
 
@@ -67,7 +67,7 @@ Inventory Management System with Barcode Support.
 
 <td width="50%" valign="top">
 
-## ☕ Cafe Website Concept
+## Cafe Website Concept
 
 Modern responsive website concept for cafes and restaurants.
 
@@ -88,7 +88,7 @@ Modern responsive website concept for cafes and restaurants.
 
 <td width="50%" valign="top">
 
-## 📱 Kumpulan
+## Kumpulan
 
 Filipino Entity Catalog: an Android app for exploring mythological beings, gods, and heroes from Philippine folklore, with offline access.
 
@@ -108,7 +108,7 @@ Filipino Entity Catalog: an Android app for exploring mythological beings, gods,
 
 <td width="50%" valign="top">
 
-## 🤖 AI-Powered Personal To-Do Assistant
+## AI-Powered Personal To-Do Assistant
 
 A smart assistant that understands natural language commands and automatically manages tasks, reminders, and schedules.
 
@@ -131,7 +131,7 @@ A smart assistant that understands natural language commands and automatically m
 
 ---
 
-# 🌐 Website Development
+# Website Development
 
 Custom websites built using Laravel.
 
@@ -145,7 +145,7 @@ Custom websites built using Laravel.
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <div align="center">
 
@@ -157,21 +157,7 @@ Custom websites built using Laravel.
 
 ---
 
-# 🏆 Current Goals
-
-✅ Build more Laravel projects
-
-✅ Grow freelance client base
-
-✅ Create professional business websites
-
-✅ Improve UI/UX design skills
-
-✅ Learn advanced Laravel architecture
-
----
-
-# 📫 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -191,6 +177,6 @@ Custom websites built using Laravel.
 
 > "Job's finished? I dont think so."
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
