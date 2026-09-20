@@ -22,15 +22,6 @@ I'm **Robyn John**, a BS Computer Science student from **STI College Cubao**.
 
 I specialize in building modern web applications using Laravel and helping businesses improve their online presence through custom websites and redesigns.
 
-### Currently Focused On
-
-Cafe Websites   •   Business Websites   •   Inventory Systems
-
-Laravel Development   •   Continuous Learning
-
-</div>
-
----
 
 # Tech Stack
 
