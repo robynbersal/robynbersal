@@ -120,21 +120,6 @@ A smart assistant that understands natural language commands and automatically m
 </tr>
 </table>
 
----
-
-# Website Development
-
-Custom websites built using Laravel.
-
-### Features
-
-* Modern Design
-* Mobile Responsive
-* Fast Performance
-* Business Focused
-* Client Contact Forms
-
----
 
 # GitHub Statistics
 
